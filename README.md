@@ -1,6 +1,6 @@
 # 💊 Pharmaceutical Management System (Web-Based)
 
-
+![Screenshot](screenshot.png)
 
 ## 📌 Project Overview
 
@@ -26,7 +26,7 @@ The system includes:
 | Frontend      | HTML, CSS, JavaScript    |
 | Backend       | PHP                      |
 | Database      | MySQL                    |
-| Styling/UX    | Bootstrap (optional)     |
+| Styling/UX    | Bootstrap                |
 
 ---
 
@@ -41,6 +41,7 @@ The system includes:
 ```sql
 CREATE DATABASE pharma_db;
 
+```
 3. Import the provided SQL file:
 USE pharma_db;
 SOURCE pharma_db.sql;
@@ -59,5 +60,8 @@ http://localhost/pharma-management/
 ✅ Add and Manage Users
 ✅ Search functionality
 ✅ Responsive layout
+
+
+
 
 
