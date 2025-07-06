@@ -53,13 +53,13 @@ SOURCE pharma_db.sql;
 6. Visit:
 http://localhost/pharma-management/
 
-🎯 Key Features
-✅ Secure Login and Logout
-✅ Add, View, Edit, Delete Suppliers
-✅ Add, View, Edit, Delete Items
-✅ Add and Manage Users
-✅ Search functionality
-✅ Responsive layout
+🎯 Key Features</br>
+✅ Secure Login and Logout</br>
+✅ Add, View, Edit, Delete Suppliers</br>
+✅ Add, View, Edit, Delete Items</br>
+✅ Add and Manage Users</br>
+✅ Search functionality</br>
+✅ Responsive layout</br>
 
 
 
